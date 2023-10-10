@@ -73533,11 +73533,11 @@ p=s.d
 p===$&&A.b()
 return new A.qb(p,q,r,"Wotic",!0,null)}}
 A.TE.prototype={
-gae3(){var s,r="/splashscreenpage",q=this.a
-if(q===$){s=A.av5(!0,new A.TF(),r,new A.TG(),A.a([A.agS(new A.TH(),"SplashScreenPage",r),A.agS(new A.TI(),"MainPage","/mainpage")],t.yo))
+gae3(){var s,r=this.a
+if(r===$){s=A.av5(!0,new A.TF(),"/",new A.TG(),A.a([A.agS(new A.TH(),null,"/"),A.agS(new A.TI(),"MainPage","/mainpage")],t.yo))
 this.a!==$&&A.aB()
 this.a=s
-q=s}return q}}
+r=s}return r}}
 A.TH.prototype={
 $2(a,b){return B.IG},
 $S:465}
